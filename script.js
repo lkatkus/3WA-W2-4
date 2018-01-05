@@ -74,6 +74,8 @@ function test4(){
     }
 }
 
+/* DO / WHILE LOOP IS IMPLEMENTED AT LEAST ONCE */
+
 function doWhile(){
     x = 0;
     y = 0;
