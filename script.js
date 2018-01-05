@@ -163,6 +163,7 @@ function test11(m,n){
     for(var i = m; i <= n; i++){
         for(var j = m; j <= n; j++){
             console.log(i + " x " + j + " = " + (i * j));
+            document.getElementById("try").innerHTML = (i + " x " + j + " = " + (i * j));
         }
         console.log("");
     }
