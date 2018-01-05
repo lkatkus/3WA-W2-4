@@ -157,6 +157,17 @@ function test10() {
     console.log("END");
 }
 
+
+function test11(m,n){
+    clear();
+    for(var i = m; i <= n; i++){
+        for(var j = m; j <= n; j++){
+            console.log(i + " x " + j + " = " + (i * j));
+        }
+        console.log("");
+    }
+}
+
 // console.log("variable 1 - " + var1);
 // console.log("variable 2 - " + var2);
 // console.log("variable 3 - " + var3);
