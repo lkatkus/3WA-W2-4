@@ -210,7 +210,7 @@ console.log("neigiamas");
 else
 console.log("NaN");
 
-console.log("=========")
+console.log("=========");
 
 // JEIGU LYGINAMI STRINGAI TADA LYGINA STRINGU SIMBOLIUS VIENA PO KITO PAGAL JU ASCII REIKSME.
 
@@ -222,7 +222,7 @@ if(t1>t2){
     console.log("t2")
 }
 
-console.log("=========")
+console.log("=========");
 
 var b = t1 > t2
 var t3 = 1;
@@ -236,8 +236,4 @@ if(b){
     console.log("ok");
 }
 
-console.log("=========")
-
-
-
-console.log("=========")
+console.log("=========");
